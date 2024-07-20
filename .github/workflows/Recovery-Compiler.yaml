@@ -27,6 +27,7 @@ on:
         options:
           - '12.1'
           - '11.0'
+          - '13.1'
       DEVICE_TREE:
         description: 'Device Tree'
         required: true
